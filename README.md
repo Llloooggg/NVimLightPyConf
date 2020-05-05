@@ -8,7 +8,7 @@ curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
 # Клонирование файла конфига
-git clone git@github.com:Llloooggg/NeoVim-config.git ~/.config/nvim
+git clone git@github.com:Llloooggg/NVimLightPyConf.git ~/.config/nvim
 
 # Установка указанных плагинов в самом Nvim
 :PlugInstall
