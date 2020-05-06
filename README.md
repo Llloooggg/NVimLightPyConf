@@ -37,9 +37,6 @@ git clone git@github.com:Llloooggg/NVimLitePyConf.git ~/.config/nvim
 ### Тема
 [joshdick/onedark.vim](http://github.com/joshdick/onedark.vim)
 
-### Проверка cинтаксиса
-[dense-analysis/ale](http://github.com/dense-analysis/ale)
-
 ### Подсказки 
 [Shougo/deoplete.nvim](http://github.com/Shougo/deoplete.nvim)
 

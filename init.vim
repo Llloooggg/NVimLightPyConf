@@ -15,12 +15,9 @@ Plug 'itchyny/lightline.vim'
 " Тема
 Plug 'joshdick/onedark.vim'
 
-" Проверка cинтаксиса
-Plug 'dense-analysis/ale'
-
 " Подсказки  
-Plug 'Shougo/deoplete.nvim', {'do': ':autocmd VimEnter * UpdateRemotePlugins'}
-Plug 'deoplete-plugins/deoplete-jedi'
+" Plug 'Shougo/deoplete.nvim', {'do': ':autocmd VimEnter * UpdateRemotePlugins'}
+" Plug 'deoplete-plugins/deoplete-jedi'
 
 " Python синтаксис
 Plug 'numirias/semshi', {'do': ':UpdateRemotePlugins'}
@@ -55,7 +52,7 @@ au ColorScheme * hi Normal ctermbg=None
 let g:onedark_termcolors=256
 colorscheme onedark
 
-" Питоно-подсказки
+" Подсказки
 let g:deoplete#enable_at_startup = 1
 let g:jedi#completions_enabled = 0
 
