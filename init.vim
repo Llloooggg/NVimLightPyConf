@@ -37,6 +37,9 @@ filetype plugin indent on
 set encoding=utf-8
 syntax enable
 
+" Команды Vim в русской раскладке
+set langmap=ФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯ;ABCDEFGHIJKLMNOPQRSTUVWXYZ,фисвуапршолдьтщзйкыегмцчня;abcdefghijklmnopqrstuvwxyz
+
 " Нумерация строк
 set number
 
